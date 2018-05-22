@@ -1,0 +1,20 @@
+{
+  "name": "gwpd-alpha",
+  "version": "1.0.0",
+  "description": "global water pathogens database web application - alpha prototype",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencel/gwpd-alpha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencel/gwpd-alpha/issues"
+  },
+  "homepage": "https://github.com/spencel/gwpd-alpha#readme"
+}
